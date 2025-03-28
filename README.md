@@ -1,16 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiliban Ravichandran
+Hi ! My name is Thiliban Ravichandran
 =============================================================================================================================================
 
 Frontend Developer
 ------------------
 
 Hi there! I’m Thiliban Ravichandran, a Senior Associate and Frontend Developer at PickYourTrail. I specialize in creating user-focused, high-performance web applications using modern technologies like React, Next.js, and TypeScript. My approach combines clean coding practices, design efficiency, and innovation to deliver impactful solutions.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [thilip2017@gmail.com](mailto:thilip2017@gmail.com)
-* 🧠  I'm learning Next JS 15
-* 🤝  I'm open to collaborating on Projects
-* ⚡  🎯 "Code is like humor. When you have to explain it, it’s bad."
 
 ### Skills
 
